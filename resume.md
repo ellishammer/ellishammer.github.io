@@ -1,12 +1,6 @@
 ---
 layout: resume
 ---
-## Currently
-
-Resident Advisor at George Washington University  
-
-*Building community in the residential hall while supporting residents  
-*Creating and executing programming aimed at enriching residential life
 
 ## Education
 
@@ -14,51 +8,41 @@ Resident Advisor at George Washington University
 __George Washington University__
 BS in Computer Science
 
-## Awards
+## Experience
 
-`2012`
-Name of Award, Organization 
+#George Washington University – Washington, D.C. `August 2016 - Current`
+Resident Advisor
+• Building community in the residential hall while supporting residents
+• Creating and executing programming aimed at enriching residential life 
+#Noodles & Company – Wayzata, MN  `May 2016 - August 2016`
+Front of House Specialist
+• Developed plans for enhancing customer satisfaction
+• Coordinated training of new employees and managed employee teams 
+#Lakeside Wine and Spirits – Long Lake, MN  `June 2015 - August 2015`
+Clerk
+• Managed inventory and supervised deliveries
+• Handled transactions while ensuring customer satisfaction
+• Planned and executed marketing operations
 
-## Publications
+## Projects
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
+Note Taking App (November 2016 – Current): Developing a minimalist note-taking app for the Android OS Interactive Zombie Simulation Interactive Zombie Simulation (October 2016): Developed with Java utilizing various libraries
+Encryption Module (November 2016): Three-factor encryption application written entirely in LC3 Assembly language
+Maze Solving Robot (Fall 2015): Worked in a team to build and program a robot that solves mazes in real time with an array of sensors using Java
 
 
-## Presentations
+### Skills
 
-`1994`
-Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Link to Presentation</a>
+Java, C, Python, HTML, SQL, LC3 Assembly, MATLAB, Mac OS X, Microsoft Windows, Microsoft Office, Adobe Illustrator, Web design, GitHub
 
+### Activities and Leadership
 
-## Occupation
-
-`Current`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
+Interfraternity Council `December 2016 - Current`
+• Serving as Vice President of Judicial Affairs
+• Supervising and maintaining a judicial board for adherence to bylaws
+• Organizing and executing initiatives to promote the Greek community
+Association for Computing Machinery `September 2016 - Current`
+• Member, George Washington University Chapter
 
 
 
