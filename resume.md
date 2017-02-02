@@ -46,6 +46,7 @@ Interfraternity Council
 • Serving as Vice President of Judicial Affairs
 • Supervising and maintaining a judicial board for adherence to bylaws
 • Organizing and executing initiatives to promote the Greek community
+  
 `September 2016 - Current`
   
 Association for Computing Machinery 
