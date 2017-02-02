@@ -8,15 +8,15 @@ logo:             # filename of a logo image that has been placed into your imag
 # Enter the following platform usernames if you would like for them to appear on your site.
 # Remove the hashtag symbol and then enter the username, without the @ symbol or quotation marks. Only the bio is in quotation marks.
 owner:
-  name: Your Name
+  name: Ellis Hammer
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  bio: "I am currently a student at George Washington University, pursuing a degree in Computer Science in the School of Engineering and Applied Science. I have experience with a variety of programming languages, as well as marketing and web design. I am excited about any and all opportunities to develop my skills and expertise."
   email: #emailaddress
   twitter: #username
   facebook: #username
   instagram: #username
-  linkedin: #username
-  github: #username
+  linkedin: ellishammer
+  github: ellishammer
   researchgate: #username
   mendeley: #username
   google:
