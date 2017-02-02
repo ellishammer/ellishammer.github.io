@@ -6,37 +6,37 @@ layout: resume
 
 `September 2015 - December 2018`
   
-__George Washington University__
+__George Washington University – Washington, D.C.__
   
 BS in Computer Science
 
 # Experience
   
-###`August 2016 - Current`
+`August 2016 - Current`
   
-##George Washington University – Washington, D.C. 
+__George Washington University – Washington, D.C.__
   
-Resident Advisor
+_Resident Advisor_
   
 • Building community in the residential hall while supporting residents
   
 • Creating and executing programming aimed at enriching residential life 
   
-###`May 2016 - August 2016`
+`May 2016 - August 2016`
   
-##Noodles & Company – Wayzata, MN  
+__Noodles & Company – Wayzata, MN__
   
-Front of House Specialist
+_Front of House Specialist_
   
 • Developed plans for enhancing customer satisfaction
   
 • Coordinated training of new employees and managed employee teams 
   
-###`June 2015 - August 2015`
+`June 2015 - August 2015`
   
-##Lakeside Wine and Spirits – Long Lake, MN  
+__Lakeside Wine and Spirits – Long Lake, MN__
   
-Clerk
+_Clerk_
   
 • Managed inventory and supervised deliveries
   
@@ -47,9 +47,10 @@ Clerk
 
 # Projects
 
-Note Taking App (November 2016 – Current): Developing a minimalist note-taking app for the Android OS Interactive Zombie Simulation Interactive Zombie Simulation (October 2016): Developed with Java utilizing various libraries
-Encryption Module (November 2016): Three-factor encryption application written entirely in LC3 Assembly language
-Maze Solving Robot (Fall 2015): Worked in a team to build and program a robot that solves mazes in real time with an array of sensors using Java
+__Note Taking App__ (November 2016 – Current): Developing a minimalist note-taking app for the Android OS  
+__Interactive Zombie Simulation__ (October 2016): Developed with Java utilizing various libraries
+__Encryption Module__ (November 2016): Three-factor encryption application written entirely in LC3 Assembly language
+__Maze Solving Robot__ (Fall 2015): Worked in a team to build and program a robot that solves mazes in real time with an array of sensors using Java
 
 
 # Skills
@@ -60,7 +61,7 @@ Java, C, Python, HTML, SQL, LC3 Assembly, MATLAB, Mac OS X, Microsoft Windows, M
 
 `December 2016 - Current`
   
-Interfraternity Council 
+__Interfraternity Council__
   
 • Serving as Vice President of Judicial Affairs
 • Supervising and maintaining a judicial board for adherence to bylaws
@@ -68,7 +69,7 @@ Interfraternity Council
   
 `September 2016 - Current`
   
-Association for Computing Machinery 
+__Association for Computing Machinery__
   
 • Member, George Washington University Chapter
 
