@@ -2,23 +2,25 @@
 layout: resume
 ---
 
-## Education
+### Education
 
 `September 2015 - December 2018`
 __George Washington University__
 BS in Computer Science
 
-## Experience
-
-#George Washington University – Washington, D.C. `August 2016 - Current`
+### Experience
+#`August 2016 - Current`
+##George Washington University – Washington, D.C. 
 Resident Advisor
 • Building community in the residential hall while supporting residents
 • Creating and executing programming aimed at enriching residential life 
-#Noodles & Company – Wayzata, MN  `May 2016 - August 2016`
+#`May 2016 - August 2016`
+##Noodles & Company – Wayzata, MN  
 Front of House Specialist
 • Developed plans for enhancing customer satisfaction
 • Coordinated training of new employees and managed employee teams 
-#Lakeside Wine and Spirits – Long Lake, MN  `June 2015 - August 2015`
+#`June 2015 - August 2015`
+##Lakeside Wine and Spirits – Long Lake, MN  
 Clerk
 • Managed inventory and supervised deliveries
 • Handled transactions while ensuring customer satisfaction
@@ -37,11 +39,13 @@ Java, C, Python, HTML, SQL, LC3 Assembly, MATLAB, Mac OS X, Microsoft Windows, M
 
 ### Activities and Leadership
 
-Interfraternity Council `December 2016 - Current`
+`December 2016 - Current`
+Interfraternity Council 
 • Serving as Vice President of Judicial Affairs
 • Supervising and maintaining a judicial board for adherence to bylaws
 • Organizing and executing initiatives to promote the Greek community
-Association for Computing Machinery `September 2016 - Current`
+`September 2016 - Current`
+Association for Computing Machinery 
 • Member, George Washington University Chapter
 
 
