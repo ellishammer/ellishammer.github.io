@@ -5,26 +5,45 @@ layout: resume
 # Education
 
 `September 2015 - December 2018`
+  
 __George Washington University__
+  
 BS in Computer Science
 
 # Experience
+  
 ###`August 2016 - Current`
+  
 ##George Washington University – Washington, D.C. 
+  
 Resident Advisor
+  
 • Building community in the residential hall while supporting residents
+  
 • Creating and executing programming aimed at enriching residential life 
+  
 ###`May 2016 - August 2016`
+  
 ##Noodles & Company – Wayzata, MN  
+  
 Front of House Specialist
+  
 • Developed plans for enhancing customer satisfaction
+  
 • Coordinated training of new employees and managed employee teams 
+  
 ###`June 2015 - August 2015`
+  
 ##Lakeside Wine and Spirits – Long Lake, MN  
+  
 Clerk
+  
 • Managed inventory and supervised deliveries
+  
 • Handled transactions while ensuring customer satisfaction
+  
 • Planned and executed marketing operations
+  
 
 # Projects
 
