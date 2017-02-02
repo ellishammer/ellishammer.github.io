@@ -5,6 +5,7 @@ layout: resume
 # Resume
 
 ## Education
+  
 
 `September 2015 - December 2018`
   
@@ -13,6 +14,7 @@ __George Washington University – Washington, D.C.__
 BS in Computer Science
 
 ## Experience
+  
   
 `August 2016 - Current`
   
@@ -48,6 +50,7 @@ _Clerk_
   
 
 ## Projects
+  
 
 __Note Taking App__ (November 2016 – Current): Developing a minimalist note-taking app for the Android OS  
 __Interactive Zombie Simulation__ (October 2016): Developed with Java utilizing various libraries
@@ -56,10 +59,12 @@ __Maze Solving Robot__ (Fall 2015): Worked in a team to build and program a robo
 
 
 ## Skills
+  
 
 Java, C, Python, HTML, SQL, LC3 Assembly, MATLAB, Mac OS X, Microsoft Windows, Microsoft Office, Adobe Illustrator, Web design, GitHub
 
 ## Activities and Leadership
+  
 
 `December 2016 - Current`
   
