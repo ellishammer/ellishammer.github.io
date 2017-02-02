@@ -40,12 +40,16 @@ Java, C, Python, HTML, SQL, LC3 Assembly, MATLAB, Mac OS X, Microsoft Windows, M
 # Activities and Leadership
 
 `December 2016 - Current`
+  
 Interfraternity Council 
+  
 • Serving as Vice President of Judicial Affairs
 • Supervising and maintaining a judicial board for adherence to bylaws
 • Organizing and executing initiatives to promote the Greek community
 `September 2016 - Current`
+  
 Association for Computing Machinery 
+  
 • Member, George Washington University Chapter
 
 
