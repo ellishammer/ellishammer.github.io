@@ -2,7 +2,9 @@
 layout: resume
 ---
 
-# Education
+# Resume
+
+## Education
 
 `September 2015 - December 2018`
   
@@ -10,7 +12,7 @@ __George Washington University – Washington, D.C.__
   
 BS in Computer Science
 
-# Experience
+## Experience
   
 `August 2016 - Current`
   
@@ -45,7 +47,7 @@ _Clerk_
 • Planned and executed marketing operations
   
 
-# Projects
+## Projects
 
 __Note Taking App__ (November 2016 – Current): Developing a minimalist note-taking app for the Android OS  
 __Interactive Zombie Simulation__ (October 2016): Developed with Java utilizing various libraries
@@ -53,11 +55,11 @@ __Encryption Module__ (November 2016): Three-factor encryption application writt
 __Maze Solving Robot__ (Fall 2015): Worked in a team to build and program a robot that solves mazes in real time with an array of sensors using Java
 
 
-# Skills
+## Skills
 
 Java, C, Python, HTML, SQL, LC3 Assembly, MATLAB, Mac OS X, Microsoft Windows, Microsoft Office, Adobe Illustrator, Web design, GitHub
 
-# Activities and Leadership
+## Activities and Leadership
 
 `December 2016 - Current`
   
