@@ -3,9 +3,9 @@ layout: resume
 ---
 ## Currently
 
-Resident Advisor at George Washington University
+Resident Advisor at George Washington University  
 
-*Building community in the residential hall while supporting residents
+*Building community in the residential hall while supporting residents  
 *Creating and executing programming aimed at enriching residential life
 
 ## Education
