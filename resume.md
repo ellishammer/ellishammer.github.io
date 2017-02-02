@@ -3,17 +3,15 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Resident Advisor at George Washington University
+*Building community in the residential hall while supporting residents
+*Creating and executing programming aimed at enriching residential life
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
-
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`September 2015 - December 2018`
+__George Washington University__
+BS in Computer Science
 
 ## Awards
 
